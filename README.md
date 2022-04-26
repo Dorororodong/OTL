@@ -9,12 +9,9 @@
 
 
 # 💰 OTL [One can Take Limited] 
-
-[[_TOC_]]
-
 ## 1. OTL 소개
 
-- 개발 기간 : 2022년 2월 28일 [월] ~ 2022년 4월 7일 [목]
+- 개발 기간 : 2022년 2월 28일 [월] ~ 2022년 4월 8일 [금]
 
 - 주제 : 미니홈피 기능을 결합한 **블록체인 기반 탈중앙형 NFT 거래 플랫폼** 서비스
 - 팀명 : 👖 청바지! (**청**춘은 **바**로 **지**금)
@@ -145,9 +142,9 @@ npm start
 
 ## 8. 트리 구조
 
-- [`Front-End`](https://lab.ssafy.com/s06-blockchain-nft-sub2/S06P22A405/-/blob/dev/outputs/File%20Tree/Front-End.md)
-- [`Back-End`](https://lab.ssafy.com/s06-blockchain-nft-sub2/S06P22A405/-/blob/dev/outputs/File%20Tree/Back-End.md)
-- [`Smart-Contracts`](https://lab.ssafy.com/s06-blockchain-nft-sub2/S06P22A405/-/blob/dev/outputs/File%20Tree/Smart-Contracts.md)
+- [`Front-End`](outputs/File%20Tree/Front-End.md)
+- [`Back-End`](outputs/File%20Tree/Back-End.md)
+- [`Smart-Contracts`](outputs/File%20Tree/Smart-Contracts.md)
 
 ---
 
